@@ -27,8 +27,8 @@ import iterm2
 # then switch the profile correspondingly.
 
 # custom your theme name here.
-light_profile_name = 'Light'
-dark_profile_name = 'Dark'
+light_profile_name = 'OneHalfLight'
+dark_profile_name = 'OneHalfDark'
 
 # custom the refresh time in seconds here.
 refresh_sec = 0.1
